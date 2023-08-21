@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on getting a job and grow as a software developer
+- 🔭 I’m currently working on getting a job and grow as a software developer
 - 🌱 I’m currently learning PYTHON/JAVASCRIPT
 - 👯 I’m looking to collaborate on anything! (I would love the opportunity to learn and grow)
 - 🤔 I’m looking for help with becoming a junior software developer
